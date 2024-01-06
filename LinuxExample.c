@@ -1,6 +1,4 @@
-// SO IN1 21A LAB05
-// Wojciech Surowiecki
-// sw54510@zut.edu.pl
+
 
 #include <stdio.h>
 #include <stdlib.h>
